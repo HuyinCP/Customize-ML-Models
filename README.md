@@ -1,6 +1,7 @@
-# Linear Regression Optimization: Ternary Search vs Gradient Descent
+<p align="center">
+  <h2 align="center">Linear Regression Optimization: Ternary Search vs Gradient Descent</h2>
+</p>
 
-In this project I will demonstrates and compares two optimization techniques — **Ternary Search** and **Gradient Descent** — for minimizing the **Mean Squared Error (MSE)** in a univariate linear regression model. While both aim to find the optimal parameters that minimize the loss, they differ significantly in their principles, applications, and efficiency.
-
----
-
+<p align="center">
+  <strong>Author:</strong> Nghiêm Quang Huy<br>
+</p>
