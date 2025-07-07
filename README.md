@@ -47,7 +47,7 @@ datasets/StudentScore.xls
 
 Based on Pearson correlation coefficients:
 ![image](https://github.com/user-attachments/assets/6893aacb-a371-4f90-8093-a60cc40d390f)
-Here is interactions between reading score and writing score
+Here is interactions between reading score and writing score:
 ![image](https://github.com/user-attachments/assets/24a92821-6fa4-49c7-844f-bfdf1e24db89)
 * `reading score` and `writing score`: **0.947** —> very strong positive linear relationship
 * `math score` is also positively correlated with both `reading` (0.802) and `writing` (0.778)
