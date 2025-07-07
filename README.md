@@ -44,7 +44,7 @@ datasets/StudentScore.xls
 > * Input: **reading score**
 > * Output: **writing score**
 
-### 📊 Correlation Analysis
+### Correlation Analysis
 
 Based on Pearson correlation coefficients:
 ![image](https://github.com/user-attachments/assets/6893aacb-a371-4f90-8093-a60cc40d390f)
