@@ -56,18 +56,12 @@ Here is interactions between reading score and writing score:
 
 ---
 ## Method 1: Ternary Search on Mean Squared Error Loss
+Initially, I observed that the cost function used in univariate (b = 0 kk) linear regression Mean Squared Error (MSE) is a convex quadratic function with respect to the weight parameter w. Because of this convexity, we can apply Ternary Search, a derivative-free optimization method, to efficiently find the minimum point of this function.
+
 The equation for cost with one variable is:
 We define the hypothesis function as:
-
-$$
-f_{w,b}(x^{(i)}) = wx^{(i)} + b
-$$
-
-The cost function is:
-
-$$
-J(w,b) = \frac{1}{2m} \sum_{i = 0}^{m-1} (f_{w,b}(x^{(i)}) - y^{(i)})^2
-$$
+$$f_{w,b}(x^{(i)}) = wx^{(i)} + b$$
+The cost function is:$$J(w,b) = \frac{1}{2m} \sum_{i = 0}^{m-1} (f_{w,b}(x^{(i)}) - y^{(i)})^2$$
 
 ---
 ## Method 2: Gradient Descent on Mean Squared Error Loss
