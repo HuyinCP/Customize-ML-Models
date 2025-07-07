@@ -20,8 +20,37 @@
 
 ## 📁 Dataset Description
 
-+ File: `datasets/StudentScore.xls`
-+ Feature: `reading score`
-+ Target: `writing score`
-+ Missing values imputed using median.
-+ Dataset split 80% training and 20% test.
+The dataset is stored in the file:
+
+```
+datasets/StudentScore.xls
+```
+
+### Column Descriptions
+
+| Column                      | Type    | Description                            |
+| --------------------------- | ------- | -------------------------------------- |
+| gender                      | string  | Student's gender                       |
+| lunch                       | string  | Type of lunch received                 |
+| math score                  | integer | Score in mathematics                   |
+| parental level of education | string  | Highest level of education of a parent |
+| race/ethnicity              | string  | Demographic group                      |
+| reading score               | integer | Reading test score                     |
+| test preparation course     | string  | Whether test preparation was completed |
+| writing score               | integer | Writing test score                     |
+
+> In this project, we focus only on:
+>
+> * Input: **reading score**
+> * Output: **writing score**
+
+### 📊 Correlation Analysis
+
+Based on Pearson correlation coefficients:
+
+* `reading score` and `writing score`: **0.947** —> very strong positive linear relationship
+* `math score` is also positively correlated with both `reading` (0.802) and `writing` (0.778)
+* Non-numeric fields like `gender`, `lunch`, and `test preparation course` have weaker correlations with scores (< 0.3)
+* The feature `reading score` is a **very good predictor** for `writing score`.
+
+---
