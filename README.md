@@ -13,7 +13,7 @@
 
 ## Table of Contents
 
-- [Dataset Description](#-dataset-description)
+- [Dataset Description](#-dataset-descriptionds)
 - [Method 1: Ternary Search](#-Method-1-Ternary-Search-On-Mean-Squere-Error-Loss-Function)
 - [Method 2: Gradient Descent](#-method-2-gradient-descent-with-derivatives)
 
