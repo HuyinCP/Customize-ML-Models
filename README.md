@@ -13,9 +13,9 @@
 
 ## Table of Contents
 
-- [Dataset Description](#-dataset-descriptionds)
-- [Method 1: Ternary Search](#-Method-1-Ternary-Search-On-Mean-Squere-Error-Loss-Function)
-- [Method 2: Gradient Descent](#-Method-2-Gradient-Descent-On-Mean-Squere-Error-Loss-Function)
+- [Dataset Description](#dataset-description)
+- [Method 1: Ternary Search on Mean Squared Error Loss](#method-1-ternary-search-on-mean-squared-error-loss)
+- [Method 2: Gradient Descent on Mean Squared Error Loss](#method-2-gradient-descent-on-mean-squared-error-loss)
 
 ## Dataset Description
 
