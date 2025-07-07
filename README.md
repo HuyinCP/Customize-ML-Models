@@ -17,7 +17,7 @@
 - [Method 1: Ternary Search](#-method-1-ternary-search-no-derivatives)
 - [Method 2: Gradient Descent](#-method-2-gradient-descent-with-derivatives)
 
-## 📁 Dataset Description
+## Dataset Description
 
 The dataset is stored in the file:
 
@@ -55,3 +55,5 @@ Here is interactions between reading score and writing score:
 * The feature `reading score` is a **very good predictor** for `writing score`.
 
 ---
+## Method 1 Ternary Search On Mean Squere Error Loss Function
+
