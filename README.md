@@ -5,8 +5,8 @@
 
 <p align="center">
   <strong>Author:</strong> Nghiêm Quang Huy (HuyCP)<br>
-  <strong>Course:</strong> 👺 Just For Fun 👺<br>
-  ☠️ HCMC University of Technology and Education ☠️<br>
+  <strong>Course:</strong> Just For Fun <br>
+  HCMC University of Technology and Education<br>
 </p>
 
 ---
