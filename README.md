@@ -15,7 +15,7 @@
 
 - [Dataset Description](#-dataset-descriptionds)
 - [Method 1: Ternary Search](#-Method-1-Ternary-Search-On-Mean-Squere-Error-Loss-Function)
-- [Method 2: Gradient Descent](#-method-2-gradient-descent-with-derivatives)
+- [Method 2: Gradient Descent](#-Method-2-Gradient-Descent-On-Mean-Squere-Error-Loss-Function)
 
 ## Dataset Description
 
@@ -55,5 +55,6 @@ Here is interactions between reading score and writing score:
 * The feature `reading score` is a **very good predictor** for `writing score`.
 
 ---
-## Method 1 Ternary Search On Mean Squere Error Loss Function
-
+## Method 1: Ternary Search on Mean Squared Error Loss
+---
+## Method 2: Gradient Descent on Mean Squared Error Loss
