@@ -14,7 +14,6 @@
 ## Table of Contents
 
 - [Dataset Description](#-dataset-description)
-- [Problem Formulation](#-problem-formulation)
 - [Method 1: Ternary Search](#-method-1-ternary-search-no-derivatives)
 - [Method 2: Gradient Descent](#-method-2-gradient-descent-with-derivatives)
 
