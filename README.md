@@ -5,7 +5,7 @@
 
 <p align="center">
   <strong>Author:</strong> Nghiêm Quang Huy<br>
-  <strong>Course:</strong> Artificial Intelligence<br>
+  <strong>Course:</strong> Just for fun HEHE<br>
   <strong>University:</strong> HCMC University of Technology and Education<br>
 </p>
 
