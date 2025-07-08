@@ -64,11 +64,9 @@ $$
 f_{w,b}(x^{(i)}) = wx^{(i)} + b \text{b = 0}
 $$
 
-<center>
-<img 
-<img src="https://latex.codecogs.com/gif.image?\LARGE&space;\dpi{110}\bg{black}&space;J(w,b)=\frac{1}{2m}\sum_{i=0}^{m-1}(w&space;x^{(i)}&plus;b-y^{(i)})^2&space;" title=" J(w,b)=\frac{1}{2m}\sum_{i=0}^{m-1}(w x^{(i)}+b-y^{(i)})^2 " />
-</center>
-
+$$
+J(w, b) = \frac{1}{2m} \sum_{i = 0}^{m - 1} (w x^{(i)} + b - y^{(i)})^2
+$$
 
 Ternary Search is particularly suitable when:
 + The function is unimodal (has a single global minimum)
