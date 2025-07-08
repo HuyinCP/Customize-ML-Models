@@ -1,6 +1,6 @@
 <p align="center">
   <h2 align="center">𓀝 Yasuo, This's My Customized Machine Learning Function 𓀝</h2>
-  <h2 align="center">Linear Regression Optimization <br> Using <br> Ternary Search 𓀌 <br> Gradient Descent 𓀌 </h2>
+  <h2 align="center">Linear Regression Optimization <br> Using <br> Ternary Search <br> Gradient Descent </h2>
 </p>
 
 <p align="center">
