@@ -64,7 +64,8 @@ $$
 f_{w,b}(x^{(i)}) = wx^{(i)} + b \text{b = 0}
 $$
 
-The cost function is:
+
+![The cost function is](https://latex.codecogs.com/svg.image?J(w,b)=\frac{1}{2m}\sum_{i=0}^{m-1}(w&space;x^{(i)}&plus;b-y^{(i)})^2)
 
 $$
 J(w,b) = \frac{1}{2m} \sum_{i = 0}^{m-1} (w x^{(i)} + b - y^{(i)})^2
