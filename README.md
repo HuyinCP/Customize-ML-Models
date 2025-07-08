@@ -108,8 +108,7 @@ $$
 + We want to compute:
   
 $$
-    \frac{\partial J(w, b)}{\partial b}
-
+    \frac{\partial J(w, b)}{\partial b}\
 $$
 
 $$
