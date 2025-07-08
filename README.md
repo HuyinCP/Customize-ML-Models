@@ -74,3 +74,45 @@ Ternary Search is particularly suitable when:
 
 ---
 ## Method 2: Gradient Descent on Mean Squared Error Loss
+
+### Update rule
++ In each iteraction, gradient descent performs the follwing updates:
+
+$$
+\begin{aligned}
+w = w - \alpha \frac{\partial J(w,b)}{\partial w} \\
+b = b - \alpha \frac{\partial J(w,b)}{\partial b}
+\end{aligned}
+$$
+
++ The gradient is defined as:
+
+$$
+J(w, b) = \frac{1}{2m} \sum_{i = 0}^{m - 1}(f_{w, b}(X^{(i)}) - y^{(i)})^2
+$$
+
+$$
+\Leftrightarrow J(w, b) = \frac{1}{2m} \sum_{i = 0}^{m - 1}(wx^{(i)} + b - y^{(i)})^2
+$$
+
++ We want to compute:
+
+$$
+    \frac{\partial J(w, b)}{\partial w}
+$$
+
+$$
+    \frac{\partial J(w, b)}{\partial w} = \frac{1}{2m} \sum_{i = 0}^{m - 1} 2(wx^{(i)} + b - y^{(i)})\cdot x^{(i)}
+$$
+
++ We want to compute:
+  
+$$
+    \frac{\partial J(w, b)}{\partial b}
+
+$$
+
+$$
+    \frac{\partial J(w, b)}{\partial b} = \frac{1}{2m} \sum_{i = 0}^{m - 1} 2(wx^{(i)} + b - y^{(i)})\cdot 1
+$$
+
