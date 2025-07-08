@@ -61,7 +61,7 @@ The equation for cost with one variable is:
 We define the hypothesis function as:
 
 ```math
-f_{w,b}(x^{(i)}) = wx^{(i)} + b \text{b = 0}
+f_{w,b}(x^{(i)}) = wx^{(i)} + b
 ```
 
 ```math
