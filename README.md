@@ -66,9 +66,7 @@ $$
 
 <center>
 <img 
-  src="https://latex.codecogs.com/svg.image?J(w,b)=\frac{1}{2m}\sum_{i=0}^{m-1}(w&space;x^{(i)}&plus;b-y^{(i)})^2" 
-  alt="Cost function"
-  width="400"/>
+<img src="https://latex.codecogs.com/svg.image?\bg{black}&space;J(w,b)=\frac{1}{2m}\sum_{i=0}^{m-1}(w&space;x^{(i)}&plus;b-y^{(i)})^2&space;" title=" J(w,b)=\frac{1}{2m}\sum_{i=0}^{m-1}(w x^{(i)}+b-y^{(i)})^2 " />
 </center>
 
 $$
