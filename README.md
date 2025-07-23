@@ -18,6 +18,7 @@
   - [Correlation Analysis](#correlation-analysis)
 - [Method 1: Ternary Search on Mean Squared Error Loss](#method-1-ternary-search-on-mean-squared-error-loss)
 - [Method 2: Gradient Descent on Mean Squared Error Loss](#method-2-gradient-descent-on-mean-squared-error-loss)
+  - [Update rule](#update-rule)
 
 ## Dataset Description
 
